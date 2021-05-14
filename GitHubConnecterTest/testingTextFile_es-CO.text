@@ -27,7 +27,7 @@ New Pull request.
 
 
 
-localized branch update to see if a new job is created.
+actualización de rama localizada para ver si se crea un nuevo trabajo.
 Adding content to this new branch that was just created and deleting ugly content. 
 
 
@@ -46,10 +46,10 @@ Si funciona. ¡Esto es genial!
 Se actualizó este archivo con contenido nuevo y debería crear un trabajo.
 
 
-This will create a new pr and job.
+Esto creará un nuevo pr y trabajo.
 
-I will delete new branch from PR> 
+Eliminaré una nueva rama de PR> 
 
-I will turn the connector on and off to see if the files get uploaded without a PR. 
+Voy a encender y apagar el conector para ver si los archivos se cargan sin una PR. 
 
 Crear un nuevo conjunto de solicitudes de incorporación de cambios
